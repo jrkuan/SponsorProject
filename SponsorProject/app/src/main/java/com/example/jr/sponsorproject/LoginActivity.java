@@ -29,7 +29,7 @@ public class LoginActivity extends AppCompatActivity implements
 
     private static final String TAG = "SignInActivity";
     private static final int RC_SIGN_IN = 9001;
-
+    
     private GoogleApiClient mGoogleApiClient;
     private TextView mStatusTextView;
     private ProgressDialog mProgressDialog;
